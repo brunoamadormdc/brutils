@@ -1,0 +1,9 @@
+{
+    "name": "brutils1212",
+    "version": "0.0.1",
+    "description": "Util functions from vuejs",
+    "main": "index.js",
+    "author": "Bruno de Oliveira Amador",
+    "license": "ISC",
+    "private": false
+}
